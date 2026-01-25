@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Liudmila Shapkina
 
 ## 🧑‍💻 About Me
-I'm a software developer with a focus on **backend development**, currently studying at [42 Berlin](https://www.42berlin.de/). With a solid background in **C**, **C++**, and **Python**, I am passionate about building efficient, scalable systems. I also have experience in **server management** on **Ubuntu** and working with the **Django** library for backend solutions.
+I'm a software developer with a focus on **backend development**, currently studying at [42 Berlin](https://www.42berlin.de/). With a solid background in **C**, **C++**, and **Python**, I am passionate about building efficient, scalable systems. I also have experience in **server management** on **Ubuntu**.
 
 Previously, I worked as an architect and lead urban planner, specializing in spatial design, urban systems, and GIS-based analysis. My experience managing complex projects and integrating data-driven decision-making sparked my interest in technology. After running my own business, I transitioned into software development, combining my design thinking, analytical skills, and technical expertise to build efficient, scalable digital solutions.
 
