@@ -10,7 +10,6 @@ Previously, I worked as an architect and lead urban planner, specializing in spa
 ## 🔧 Skills & Technologies
 
 - **Languages**: C, C++, Python, Java, Bash
-- **Frameworks**: Django
 - **DevOps & Tools**: Git, Docker, Nginx, Ubuntu Server
 - **Version Control**: Git, GitHub
 - **Other**: Multithreading, Shell Scripting, Algorithms, Data Structures
@@ -25,4 +24,14 @@ A fully functional shell built from scratch, supporting **basic commands**, **pi
 ### [Building pseudo 3D game: C](https://github.com/shapkina-l/cub3d)
 Cub3D is a raycasting-based 3D graphical project inspired by the classic Wolfenstein 3D game. Developed using **C** and the **miniLibX** library, the project simulates a first-person view inside a maze, where the player navigates and interacts with the environment. The project emphasizes core computer science concepts such as memory management, event handling, and graphical rendering while exploring the use of mathematics in game development.
 
+### [Webserv: HTTP Server: C++](https://github.com/ioannnikulin/webserv)
+A group project focused on building a HTTP/1.0 web server from scratch, inspired by Nginx. The server supports multiple clients, non-blocking I/O, poll/select, configuration files, and basic CGI execution.
+
+This project deepened my understanding of:
+- Network programming and sockets
+- Event-driven architectures
+- HTTP protocol internals
+- Concurrency and performance
+- System-level programming in C++
+  
 ---
